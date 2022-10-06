@@ -1,2 +1,2 @@
 # rsos
-Restricted Solid-on-Solid Model
+Simulation of Restricted Solid-on-Solid Model
